@@ -1,2 +1,3 @@
 Hii
 I am taking devops training.
+today concepts are push and pull.
